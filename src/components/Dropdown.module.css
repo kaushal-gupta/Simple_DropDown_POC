@@ -1,0 +1,28 @@
+.label {
+  color: black;
+  font-weight: 800;
+}
+.selectDiv {
+  border: 2px solid black;
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: wheat;
+  margin-bottom: 1px;
+  padding-left: 5px;
+}
+
+.optionDiv {
+  border: 1px solid black;
+  width: 300px;
+  background-color: wheat;
+  padding-left: 5px;
+}
+
+.container {
+  margin: 0px;
+  background-color: cyan;
+  padding: 30px;
+}
